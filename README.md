@@ -15,7 +15,7 @@
     <img align="center" alt="MySQL" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
 </div><br>
 
-
+#### Sobre mim
 Formado em Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie (Higienópolis) e Bacharel em Direito pela Faculdade de Direito do Sul de Minas (FDSM). 
 
 Meu foco de estudo tem sido a área de Desenvolvimento Web Fullstack, Python JavaScript e Node.js, onde tenho aperfeiçoado minhas habilidades.
