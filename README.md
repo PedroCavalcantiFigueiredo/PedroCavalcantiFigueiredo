@@ -15,6 +15,8 @@
     <img align="center" alt="MySQL" src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
 </div><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCavalcantiFigueiredo&layout=compact)
+
 #### Sobre mim
 Formado em Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie (Higienópolis) e Bacharel em Direito pela Faculdade de Direito do Sul de Minas (FDSM). 
 
