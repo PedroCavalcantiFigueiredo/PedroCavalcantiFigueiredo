@@ -16,7 +16,7 @@
     <img align="center" alt="C#" src='https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white' />
 </div><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCavalcantiFigueiredo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCavalcantiFigueiredo&layout=dracula)
 
 #### Sobre mim
 Formado em Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie (Higienópolis) e Bacharel em Direito pela Faculdade de Direito do Sul de Minas (FDSM). 
